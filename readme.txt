@@ -7,6 +7,5 @@ Creating a new branch is quick AND simple.
 Setting default push.
 This is a new line
 This is add from lmx branch
-Try stash
 这是测试分支
-
+分支添加东西
