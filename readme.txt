@@ -1,4 +1,5 @@
 Git is a distribution version control system.
+测试分支添加东西
 Git is free software distribution under the GPL.
 Git has a mutable index called stage.
 Create a new branch is quick.
