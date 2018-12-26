@@ -6,6 +6,6 @@ Create a new branch is quick.
 Creating a new branch is quick AND simple.
 Setting default push.
 This is a new line
-This is add from lmx branch
+This is add from some code from test分支
 这是测试分支
 分支添加东西
